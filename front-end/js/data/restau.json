@@ -3,31 +3,31 @@
         
         "name":"restau-0",
         "description":"Vous aurez le droit aux meilleurs plats de toute la Terre du milieu : Ceux de la cuisine Hobbit !",
-        "picture":"../../front-end/img/restaurants/restau-0.webp"
+        "picture":"./front-end/img/restaurants/restau-0.webp"
     },
     {
         
         "name":"restau-1",
         "description":"Des plats en tout genre, pour tout les gouts !",
-        "picture":"../../front-end/img/restaurants/restau-1.webp"
+        "picture":"./front-end/img/restaurants/restau-1.webp"
     },
     {
         
         "name":"restau-2",
         "description":"Nos cuisiniers s'assureront de ravir vos papilles !",
-        "picture":"../../front-end/img/restaurants/restau-2.webp"
+        "picture":"./front-end/img/restaurants/restau-2.webp"
     },
     {
         
         "name":"restau-4",
         "description":"Et rien de mieux, avant un repas, qu'un Apéritif !",
-        "picture":"../../front-end/img/restaurants/restau-4.webp"
+        "picture":"./front-end/img/restaurants/restau-4.webp"
     },
     {
         
         "name":"restau-3",
         "description":"Et le plus important de tous : Les desserts !",
-        "picture":"../../front-end/img/restaurants/restau-3.webp"
+        "picture":"./front-end/img/restaurants/restau-3.webp"
     }
     ]
 }
