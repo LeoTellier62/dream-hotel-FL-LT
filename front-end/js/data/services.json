@@ -1,0 +1,67 @@
+{"data":[
+    {
+        "name":"Wi-fi Gratuit",
+        "description":"Connexion internet haut débit disponible dans toutes les chambres et espaces communs.",
+        "icon":"<i class=\"fa-solid fa-wifi\"></i>"
+    },
+    {
+        "name":"Douche privative",
+        "description":"Salle de bain entièrement équipée pour votre confort.",
+        "icon":"<i class=\"fa-solid fa-shower\"></i>"
+    },
+    {
+        "name":"Climatisation et chauffage",
+        "description":"Régulation de la température pour un séjour agréable en toute saison.",
+        "icon":"<i class=\"fa-solid fa-temperature-half\"></i>"
+    },
+    {
+        "name":"Télévision avec chaînes locales et internationales ",
+        "description":"Divertissement varié à votre disposition dans chaque chambre.",
+        "icon":"<i class=\"fa-solid fa-tv\"></i>"
+    },
+    {
+        "name":"Parking gratuit",
+        "description":"Espace sécurisé pour garer votre véhicule.",
+        "icon":"<i class=\"fa-solid fa-square-parking\"></i>"
+    },
+    {
+        "name":"Réception 24h/24",
+        "description":"Une équipe disponible à toute heure pour répondre à vos besoins.",
+        "icon":"<i class=\"fa-solid fa-house-user\"></i>"
+    },
+    {
+        "name":"Coffre-fort dans les chambres",
+        "description":"Rangez vos objets de valeur en toute sécurité.",
+        "icon":"<i class=\"fa-solid fa-vault\"></i>"
+    },
+    {
+        "name":"Sèche-cheveux",
+        "description":"Inclus dans chaque salle de bain pour votre confort.",
+        "icon":"<i class=\"fa-solid fa-wind\"></i>"
+    },
+    {
+        "name":"Service de conciergerie",
+        "description":"Assistance pour organiser vos visites, activités ou réservations.",
+        "icon":"<i class=\"fa-solid fa-circle-info\"></i>"
+    },
+    {
+        "name":"Accès PMR (personnes à mobilité réduite) ",
+        "description":"Installations adaptées pour tous les clients.",
+        "icon":"<i class=\"fa-solid fa-wheelchair\"></i>"
+    },
+    {
+        "name":"Location de vélos",
+        "description":"Explorez les environs grâce à nos vélos en location.",
+        "icon":"<i class=\"fa-solid fa-bicycle\"></i>"
+    },
+    {
+        "name":"Aire de jeux pour enfants",
+        "description":"Espace sécurisé pour divertir les plus jeunes.",
+        "icon":"<i class=\"fa-solid fa-child-reaching\"></i>"
+    },
+    {
+        "name":"Animaux acceptés (sur demande)",
+        "description":"Votre compagnon à quatre pattes est également le bienvenu.",
+        "icon":"<i class=\"fa-solid fa-dog\"></i>"
+    }
+]}

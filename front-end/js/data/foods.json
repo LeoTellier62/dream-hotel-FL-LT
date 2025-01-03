@@ -1,0 +1,68 @@
+{"data":[
+    {
+        
+        "name":"Assiette de Charcuterie de Fondcombe",
+        "picture":"../../front-end/img/foods/charcuterie.webp"
+    },
+    {
+        
+        "name":"Gâteau aux Noix de la Comté",
+        "picture":"../../front-end/img/foods/gateau.webp"
+    },
+    {
+        
+        "name":"Mousse au chocolat de la Forêt Noir",
+        "picture":"../../front-end/img/foods/mousse.webp"
+    },
+    {
+        
+        "name":"Poisson du Lac Long",
+        "picture":"../../front-end/img/foods/poisson.webp"
+    },
+    {
+        
+        "name":"Poulet Rôti de la Forêt de Mirkwood",
+        "picture":"../../front-end/img/foods/poulet.webp"
+    },
+    {
+        
+        "name":"Rôti de Porc de la Comté",
+        "picture":"../../front-end/img/foods/roti.webp"
+    },
+    {
+        
+        "name":"Salade de la comté",
+        "picture":"../../front-end/img/foods/salade.webp"
+    },
+    {
+        
+        "name":"Soupe de Champignons de la Forêt Noire",
+        "picture":"../../front-end/img/foods/soupe.webp"
+    },
+    {
+        
+        "name":"Tarte aux Pommes de Fondcombe",
+        "picture":"../../front-end/img/foods/tarte.webp"
+    },
+    {
+        
+        "name":"Thé de la Comté",
+        "picture":"../../front-end/img/foods/the.webp"
+    },
+    {
+        
+        "name":"Vin de Rivendell",
+        "picture":"../../front-end/img/foods/vin.webp"
+    },
+    {
+        
+        "name":"Hydromel de la Forêt de Mirkwood",
+        "picture":"../../front-end/img/foods/hydromel.webp"
+    },
+    {
+        
+        "name":"Bière de la Comté",
+        "picture":"../../front-end/img/foods/biere.webp"
+    }
+    ]
+}

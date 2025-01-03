@@ -1,0 +1,38 @@
+{"data":[
+    {
+        
+        "name":"Chambre Solo",
+        "beds": "1 lit simple",
+        "description":"Une chambre intime et chaleureuse avec un lit simple, parfaite pour les voyageurs solitaires cherchant un refuge paisible dans un cadre hobbit. Décorée avec des matériaux naturels et des touches rustiques, elle offre tout le confort nécessaire pour un séjour serein.",
+        "picture":"../front-end/img/chambers/chamber-1.webp"
+    },
+    {
+        
+        "name":"Chambre Double",
+        "beds": "1 lit double",
+        "description":"Une chambre spacieuse et conviviale avec un grand lit double, idéale pour les couples ou amis. L’ambiance hobbit se reflète dans les boiseries, les fenêtres arrondies et les détails rustiques qui rappellent la vie dans la Comté.",
+        "picture":"../front-end/img/chambers/chamber-2.webp"
+    },
+    {
+        
+        "name":"Chambre Triple",
+        "beds": "3 lits simple",
+        "description":"Une chambre accueillante équipée de trois lits simples, idéale pour un petit groupe ou une famille. L’atmosphère hobbit est omniprésente avec des textiles chaleureux, des lampes à huile et une décoration inspirée de la nature.",
+        "picture":"../front-end/img/chambers/chamber-3.webp"
+    },
+    {
+        
+        "name":"Chambre Quadruple",
+        "beds": "4 lits simple",
+        "description":"Une grande chambre avec quatre lits simples, parfaite pour les groupes ou familles nombreuses. Les meubles en bois massif et les éléments décoratifs évoquent les festins et la convivialité de la vie hobbit.",
+        "picture":"../front-end/img/chambers/chamber-4.webp"
+    },
+    {
+        
+        "name":"Chambre Double Duo",
+        "beds": "2 lits double",
+        "description":"Une chambre généreusement aménagée avec deux grands lits doubles, idéale pour deux couples ou une famille. L’atmosphère hobbit s'exprime à travers des détails comme les poutres apparentes, les tissus aux tons naturels et les lanternes diffusant une lumière douce et chaleureuse.",
+        "picture":"../front-end/img/chambers/chamber-5.webp"
+    }
+    ]
+}
